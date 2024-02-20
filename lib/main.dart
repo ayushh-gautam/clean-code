@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
       splitScreenMode: true,
       builder: (_, child) {
         return MaterialApp(
-          title: 'Foodmandu Rider',
+          title: 'ayush don',
           onGenerateRoute: generateRoute,
           navigatorKey: gNavigatorKey,
           theme: ThemeHelper().generateApptheme(
